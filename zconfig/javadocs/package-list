@@ -1,5 +1,6 @@
 com.wookler.zconfig.client
 com.wookler.zconfig.client.factory
+com.wookler.zconfig.client.listeners
 com.wookler.zconfig.common
 com.wookler.zconfig.common.events
 com.wookler.zconfig.common.model
