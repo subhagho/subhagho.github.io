@@ -5,6 +5,7 @@ com.wookler.zconfig.common
 com.wookler.zconfig.common.events
 com.wookler.zconfig.common.model
 com.wookler.zconfig.common.model.annotations
+com.wookler.zconfig.common.model.annotations.transformers
 com.wookler.zconfig.common.model.nodes
 com.wookler.zconfig.common.parsers
 com.wookler.zconfig.common.readers
