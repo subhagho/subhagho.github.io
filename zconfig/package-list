@@ -19,3 +19,4 @@ com.codekutter.zconfig.core.model.nodes
 com.codekutter.zconfig.core.test
 com.codekutter.zconfig.core.utils
 com.codekutter.zconfig.core.zookeeper
+com.codekutter.zconfig.pipelines
